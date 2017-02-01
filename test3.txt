@@ -1,0 +1,14 @@
+ Volume in drive F is New Volume
+ Volume Serial Number is 92B7-562B
+
+ Directory of F:\Library\GitProject
+
+01-02-2017  22:33    <DIR>          .
+01-02-2017  22:33    <DIR>          ..
+01-02-2017  19:10               106 HelloWord.java
+01-02-2017  16:36               384 index.html
+01-02-2017  16:35                 0 Test.txt
+01-02-2017  19:17                 2 test2.txt
+01-02-2017  22:33                 0 test3.txt
+               5 File(s)            492 bytes
+               2 Dir(s)  198,942,085,120 bytes free
